@@ -1,6 +1,9 @@
 # Peaku clone
 Esta pagina web fue realizada con Vue js 3, con el fin de poner en practica el framework y su router para la construccion de SPAs(Single Page Aplications)
 
+# Deploy
+Este proyecto se encuentra desplegado en la plataforma de Firebase hosting, por lo que si deseas ver como se ve proyecto en un entorno de produccion puedes dirigirte a https://peaku-clone.web.app
+
 ## Descarga node js
 Antes de clonar el proyecto asegurate tener instalado node js, ya que con el se gestionaran las dependencias del proyecto. Si aun no lo tienes instalado debes dirigirte a su pagina oficial y seleccionar la version que desees https://nodejs.org/es/
 
